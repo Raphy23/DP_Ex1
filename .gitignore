@@ -1,0 +1,11 @@
+# Ignore .vs generated folder
+.vs
+
+#ignore obj files
+*/obj/*
+
+#ignore cache files
+.cache
+
+#ignore StyleCop settings file
+.StyleCop
